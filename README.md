@@ -1,3 +1,3 @@
-# CycleSenseA 
-Symptom-Based Menstrual Health Tracker with Early Disorder Screening
+# CycleSense
+A Symptom-Based Menstrual Health Tracker with Early Disorder Screening
 
